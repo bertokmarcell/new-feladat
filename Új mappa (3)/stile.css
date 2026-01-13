@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    width: 80%;
+}
+.keptarolo{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 5px;
+}
+nav{
+    background-color: green;
+}

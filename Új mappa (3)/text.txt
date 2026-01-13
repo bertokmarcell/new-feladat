@@ -1,0 +1,5 @@
+main-row
+article - col md 8
+aside col md 4
+header col md 12
+md-xxl-sw-eg
